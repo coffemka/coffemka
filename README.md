@@ -9,7 +9,7 @@
 ### 🚀 **About Me**
 - 🎓 **Education:** Bachelor's in Computer Science from **HSE**
 - 📊 **Passion:** Exploring data insights
-- 💡 **Key Skills:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Tableau
+- 💡 **Key Skills:** Python, SQL, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
